@@ -4,5 +4,6 @@ c = 100
 d = a * b * c
 print(d)
 # Se Añade la variable e
-e = d + 10
+# Junta determina factor 200
+e = d * 200
 print(e)
