@@ -19,3 +19,6 @@ print(h)
 # Añade variable i
 i = h - 156
 print(i)
+# Añade variable j
+j = i - 450
+print (j)
