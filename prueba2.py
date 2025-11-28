@@ -25,3 +25,6 @@ print (j)
 # Añade variable k
 k = j - 6500
 print(k)
+# Añadir variable l
+l = k - 85000
+print(l)
