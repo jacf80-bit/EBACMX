@@ -10,3 +10,9 @@ print(e)
 # Nueva variable f
 f = e / 2
 print(f)
+# Sync 
+g = f * 4
+print(g)
+# Añade variable h
+h = g / 2
+print(h)
