@@ -22,3 +22,6 @@ print(i)
 # Añade variable j
 j = i - 450
 print (j)
+# Añade variable k
+k = j - 6500
+print(k)
