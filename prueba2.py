@@ -7,3 +7,6 @@ print(d)
 # Junta determina factor 200
 e = d * 200
 print(e)
+# Nueva variable f
+f = e / 2
+print(f)
