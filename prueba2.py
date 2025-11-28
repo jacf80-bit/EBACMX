@@ -16,3 +16,6 @@ print(g)
 # Añade variable h
 h = g / 2
 print(h)
+# Añade variable i
+i = h - 156
+print(i)
